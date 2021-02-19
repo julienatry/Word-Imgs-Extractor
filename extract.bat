@@ -1,8 +1,9 @@
 @ECHO OFF
 
-SET source="C:\Users\atry-jul\Desktop\Versailles\versailles"
-SET tempfolder="%temp%\versailles"
-SET outputdir="C:\Users\atry-jul\Desktop\Versailles\imgs"
+SET source=""
+SET outputdir=""
+
+SET tempfolder="%temp%\WordExtractor"
 SET wordconv="C:\Program Files\Microsoft Office\Office14\Wordconv.exe"
 
 SET /A c=0
