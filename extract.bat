@@ -3,12 +3,12 @@
 ::--------------------------------------------------------------------------------------
 SET source=""
 SET outputdir=""
+SET wordconv=""
 ::--------------------------------------------------------------------------------------
 
 
 ::vars
 SET tempfolder="%temp%\WordImgsExtractor"
-SET wordconv="C:\Program Files\Microsoft Office\Office14\Wordconv.exe"
 SET res=0
 
 :MakeOutputDir
